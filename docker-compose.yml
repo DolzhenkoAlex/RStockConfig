@@ -1,0 +1,9 @@
+version: "3.1"
+services:
+  configserver:
+    image: doljenkoalex/rsue-configserver
+    ports:
+      - "8071:8071"
+   
+           
+ 
